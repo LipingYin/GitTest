@@ -14,6 +14,12 @@
 
 @implementation ViewController
 
+
+-(IBAction)btnPress:(id)sender
+{
+
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];

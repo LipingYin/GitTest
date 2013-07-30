@@ -10,4 +10,5 @@
 
 @interface ViewController : UIViewController
 
+-(IBAction)btnPress:(id)sender;
 @end
