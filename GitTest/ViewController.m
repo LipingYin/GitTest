@@ -17,7 +17,7 @@
 
 -(IBAction)btnPress:(id)sender
 {
-
+    NSLog(@"123");
 }
 
 - (void)viewDidLoad
